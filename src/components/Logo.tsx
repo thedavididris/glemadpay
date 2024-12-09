@@ -4,7 +4,7 @@ export function Logo() {
   return (
     <div className="flex flex-col items-center justify-center">
       <img 
-        src="https://raw.githubusercontent.com/stackblitz/stackblitz-webcontainer-docs/main/docs/assets/glemad-logo.png" 
+        src="https://glemad.com/wp-content/uploads/2023/09/Glemad-Logo-1024x245.png" 
         alt="Glemad Logo" 
         className="h-16 w-auto"
       />
